@@ -35,6 +35,9 @@ Primero necesitaremos [***descargar***](https://github.com/Julioxidop/TNTTag/rel
 Los parametros que tenemos que configurar para que el juego funcione correctamente son los siguientes.
 ### Jugadores iniciales
 Es la cantidad de jugadores que habrá al iniciar el juego. Es necesario configurarlo correctamente para que funcione de la manera que necesites.
+
+**EL DATAPACK SOLO TOMA EN CUENTA A JUGADORES QUE ESTÉN EN MODO SURVIVAL O MODO AVENTURA, ASÍ QUE LA CANTIDAD QUE DEBES DE COLOCAR AQUÍ ES LA CANTIDAD DE JUGADORES QUE VAYAN A JUGAR QUE ESTÉN EN SURVIVAL O EN AVENTURA.**
+
 Para configurarlo dentro del juego necesitaremos ejecutar el siguiente comando:
 ```
 /scoreboard players set .b _tt_initplayers JUGADORES_INICIALES
