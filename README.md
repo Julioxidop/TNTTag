@@ -1,6 +1,27 @@
 # TNTTag
  Datapack que implementa el juego de TNTTag
 
+- [TNTTag](#tnttag)
+  * [Caracteristicas](#caracteristicas)
+  * [Descargar e instalar](#descargar-e-instalar)
+  * [Funcionamiento y configuración](#funcionamiento-y-configuración)
+    + [Jugadores iniciales](#jugadores-iniciales)
+    + [Jugadores finales](#jugadores-finales)
+    + [Tiempo](#tiempo)
+    + [Rondas](#rondas)
+  * [Como usar el datapack](#como-usar-el-datapack)
+  * [Personalización](#personalización)
+    + [start.mcfunction](#startmcfunction)
+    + [round.mcfunction](#roundmcfunction)
+    + [preexplode.mcfunction](#preexplodemcfunction)
+    + [eliminate.mcfunction](#eliminatemcfunction)
+    + [final.mcfunction](#finalmcfunction)
+    + [tag.mcfunction](#tagmcfunction)
+    + [untag.mcfunction](#untagmcfunction)
+    + [tagger.mcfunction](#taggermcfunction)
+    + [notagger.mcfunction](#notaggermcfunction)
+  * [Notas](#notas)
+
 ## Caracteristicas
 - Totalmente configurable a tus necesidades con unos pocos comandos.
 - Al ser vanilla no se necesita tener conocimientos avanzados en programación para modificarlo a tu gusto.
