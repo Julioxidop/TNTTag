@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "untag": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:player",
+            "team": "TT_tagged"
+          }
+        },
+        "entity": {
+          "type": "minecraft:player"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "untag"
+    ]
+  ],
+  "rewards": {
+    "function": "tnttag:untag"
+  }
+}

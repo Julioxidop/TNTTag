@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "tag": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:player",
+            "team": "TT_tagged"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "tag"
+    ]
+  ],
+  "rewards": {
+    "function": "tnttag:tag"
+  }
+}

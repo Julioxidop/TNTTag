@@ -1,0 +1,1 @@
+scoreboard players set #enabled ttdata 1

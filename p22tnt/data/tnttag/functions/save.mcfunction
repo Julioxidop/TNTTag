@@ -1,0 +1,1 @@
+scoreboard players operation timer ttsaver = .b _tt_timer
