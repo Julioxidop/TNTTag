@@ -1,6 +1,7 @@
 # TNTTag
  Datapack que implementa el juego de TNTTag
 
+## Tabla de contenidos
 - [TNTTag](#tnttag)
   * [Caracteristicas](#caracteristicas)
   * [Descargar e instalar](#descargar-e-instalar)
