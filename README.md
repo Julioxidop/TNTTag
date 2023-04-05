@@ -89,7 +89,7 @@ Esta función se ejecuta cuando se empieza el sistema después de usar el comand
 ### round.mcfunction
 Esta función se ejecuta al comienzo de cada ronda.
 ### preexplode.mcfunction
-Esta función se ejecute 3 segundos antes de que las comienze una nueva ronda, y por ende las TNTs exploten.
+Esta función se ejecuta 3 segundos antes de que comienze una nueva ronda, y por ende las TNTs exploten.
 ### eliminate.mcfunction
 Esta función se ejecuta sobre el jugador que tiene la TNT cuando el tiempo de la ronda llega al final.
 ### final.mcfunction
